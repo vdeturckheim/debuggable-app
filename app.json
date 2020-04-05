@@ -1,0 +1,6 @@
+{
+  "name": "Node.js debuggable application",
+  "description": "Node.js application with bugs",
+  "repository": "https://github.com/vdeturckheim/debuggable-app",
+  "keywords": ["node", "express"]
+}
